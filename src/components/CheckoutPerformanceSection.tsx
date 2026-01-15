@@ -24,7 +24,7 @@ export default function CheckoutPerformanceSection() {
           className="text-center mb-16"
         >
           <h2 className="text-5xl md:text-6xl font-bold mb-8">
-            There's no better place
+            There&apos;s no better place
             <br />
             for you to build
           </h2>
@@ -40,7 +40,7 @@ export default function CheckoutPerformanceSection() {
             viewport={{ once: true }}
             className="bg-white/10 backdrop-blur-md rounded-3xl p-10"
           >
-            <h3 className="text-3xl font-bold mb-8">The world's best-converting checkout</h3>
+            <h3 className="text-3xl font-bold mb-8">The world&apos;s best-converting checkout</h3>
 
             <div className="space-y-8">
               <div>

@@ -47,7 +47,7 @@ export default function EntrepreneursSection() {
               <h3 className="text-2xl font-bold mb-3 text-gray-900">Get started fast</h3>
               <p className="text-gray-600 mb-4">
                 Solo seller Morgan Dire Camp started <strong>Organic Essentials</strong>, a company to sell their organic
-                candles and skincare online and at local farmers' markets.
+                candles and skincare online and at local farmers&apos; markets.
               </p>
               <a href="#" className="text-green-600 font-semibold hover:underline inline-flex items-center">
                 Read their story →

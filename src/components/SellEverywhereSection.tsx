@@ -33,7 +33,7 @@ export default function SellEverywhereSection() {
             everywhere
           </h2>
           <p className="text-xl text-cyan-100 max-w-2xl">
-            Get a stunning store that's made to sell. Design fast with AI, choose a
+            Get a stunning store that&apos;s made to sell. Design fast with AI, choose a
             <br />
             stylish theme, or build completely custom from full control.
           </p>
@@ -140,7 +140,7 @@ export default function SellEverywhereSection() {
               />
             </div>
             <div className="p-8">
-              <h3 className="text-2xl font-bold mb-3">Powered by the world's best checkout</h3>
+              <h3 className="text-2xl font-bold mb-3">Powered by the world&apos;s best checkout</h3>
               <p className="text-cyan-100 mb-4">
                 <strong>Index 101 Checkout</strong> is fast, fully customizable, and optimized to close more sales.
               </p>

@@ -39,7 +39,7 @@ export default function DeveloperSection() {
             </div>
             <h3 className="text-2xl font-bold mb-3">Extend checkout</h3>
             <p className="text-blue-100 mb-6">
-              Add custom functionality to Index 101's high-converting checkout with checkout extensions.
+              Add custom functionality to Index 101&apos;s high-converting checkout with checkout extensions.
             </p>
           </motion.div>
 
@@ -56,7 +56,7 @@ export default function DeveloperSection() {
             </div>
             <h3 className="text-2xl font-bold mb-3">Build apps</h3>
             <p className="text-purple-100 mb-6">
-              Create apps that extend Index 101's functionality or integrate with external services.
+              Create apps that extend Index 101&apos;s functionality or integrate with external services.
             </p>
           </motion.div>
 

@@ -18,7 +18,7 @@ export default function EasyStartSection() {
             className="text-center mb-16"
           >
             <h2 className="text-5xl md:text-6xl font-bold mb-8 text-gray-900">
-              It's easy to start selling
+              It&apos;s easy to start selling
             </h2>
           </motion.div>
 

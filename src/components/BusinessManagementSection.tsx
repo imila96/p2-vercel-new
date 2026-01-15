@@ -50,7 +50,7 @@ export default function BusinessManagementSection() {
             <div className="p-8">
               <h3 className="text-3xl font-bold mb-4">Manage everything in one place</h3>
               <p className="text-gray-300 mb-6 text-lg">
-                From back office to front of store, you're always in control with the
+                From back office to front of store, you&apos;re always in control with the
                 <br />
                 fully centralized <strong>Index 101 Admin</strong>.
               </p>
